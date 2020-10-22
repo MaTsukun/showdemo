@@ -1,0 +1,7 @@
+服务注册中心： Nacos
+服务调用：  Ribbon/ LoadBalance
+服务调用2： OpenFeign
+服务降级： sentienl
+服务网关：gateway
+服务配置： Nacos
+服务总线：Nacos
